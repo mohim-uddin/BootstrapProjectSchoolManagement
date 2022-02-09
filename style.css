@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0s;
+}
+header{
+    background-color: #F0FFF0;
+}
+.img-fluid-l {
+    max-width: 50%;
+    height: auto;
+  }
+  .header_bg{
+    padding: 20px 0;
+    
+  }
+.btn{
+    background-color: #21B573;
+    color: #F0FFF0;
+    border-radius: 30px;
+    padding: 5px 20px;  
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+.container-fluid{
+    background-color: #F0FFF0;
+    padding: 50px 0;
+  }
+  .fs-1{
+      font-size: 40px;
+      font-weight: bold;
+  }
+  .text-h{
+    color: #21B573;
+   
+  }
+.btn2{
+    margin-top: 30px;
+    padding: 10px 30px;
+}
+.about{
+
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+.single-col{
+  width: 250px;
+  height: 250px;
+  background-color: #F8FFFB;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+.default-class{
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.img-fluid-about {
+  max-width: 35%;
+  height: auto;
+
+}
+.single-about-div{
+  margin-left: 100px;
+}
+.single-about-div h5{
+  margin-top: 20px;
+  margin-left: -30px;
+}
+.single-about-div small{
+  margin-left: -25px;
+  margin-top: 10px;
+  
+}
+.courses-class{
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.card-img-top {
+  width: 92%;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+.card {
+  background-color: #FFFFFF;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  border-radius: 10px;
+  border: 0px solid rgba(0,0,0,.125);
+}
+.card-footer {
+  padding: .5rem 1rem;
+  background-color: #FFFFFF;
+  border-top: none;
+}
+.btn3{
+  margin-top: 15px;
+}
+.p-class{
+  font-size: 14px;
+}
+.right-div{
+  float: right;
+}
+.courses{
+  margin-bottom: 50px;
+}
+.img-fluid-tes{
+  max-width: 30%;
+  height: auto;
+}
+.p-cls{
+  font-size: 14px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.footer-bg{
+  background-color: #282531;
+  margin-top: 80px;
+}
+.footer-p-cls{
+ color: white;
+ font-size: 14px;
+}
+#f-c{
+  font-weight: bold;
+}
+.footer-m-cls ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  margin-left: -130px;
+}
+.footer-b{
+  background-color: #282531;
+  color: white;
+  text-align: center;
+}
